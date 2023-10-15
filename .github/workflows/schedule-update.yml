@@ -35,7 +35,7 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "bot"
-          git remote set-url origin "https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}"
+          git remote set-url origin "https://${{ github.actor }}:${{ github.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
           git pull --rebase
 
       # 运行
