@@ -2,18 +2,19 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2024-09-29 08:08:03 +0800`
+`更新时间：2024-09-29 09:29:00 +0800`
 
 ## 热议话题
 
-1. [长达二十年的 A 股长牛正式启动？](https://www.v2ex.com/t/1076498)
-1. [一辈子都不打算换 Windows 系统，是不是 studio display 是苹果生态最好的选择](https://www.v2ex.com/t/1076518)
 1. [从 Mac 换成了 windows 工作效率大幅降低](https://www.v2ex.com/t/1076493)
+1. [一辈子都不打算换 Windows 系统，是不是 studio display 是苹果生态最好的选择](https://www.v2ex.com/t/1076518)
 1. [代理检测：在线检测您是否在使用 Clash](https://www.v2ex.com/t/1076579)
 1. [[亲测]日版 iPhone16pm 海淘教程](https://www.v2ex.com/t/1076559)
 1. [百度云确实会屏蔽加密文件](https://www.v2ex.com/t/1076501)
 1. [求助，远程工作，泰国公司，区块链， USDT 结算工资](https://www.v2ex.com/t/1076491)
 1. [股市交易策略讨论，如何保证收益同时规避风险](https://www.v2ex.com/t/1076513)
+1. [避免 Math.ceil(1.1 * 100) == 111 的最佳实践是什么？用户支付金额不对不能入账，排查了半天才发现 JS 这个逆天设计，好像别的语言也有这样的](https://www.v2ex.com/t/1076556)
+1. [MacBook Air M2 丐版推荐升级 macOS Sequoia 吗？](https://www.v2ex.com/t/1076488)
 
 ## 历史归档
 
