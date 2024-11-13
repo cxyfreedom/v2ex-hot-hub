@@ -2,14 +2,14 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2024-11-14 02:02:21 +0800`
+`更新时间：2024-11-14 03:01:57 +0800`
 
 ## 热议话题
 
 1. [要交今年的农村医保了，这个东西真的有用吗？](https://www.v2ex.com/t/1089108)
 1. [老 iPhone 电池不行了，专家们建议是换 16 还是换电池](https://www.v2ex.com/t/1089071)
-1. [macOS 中有 Oh My Zsh 的上位替代么？](https://www.v2ex.com/t/1089105)
 1. [晚上入睡困难，求大家推荐一点语音类的播客节目助眠啊](https://www.v2ex.com/t/1089081)
+1. [macOS 中有 Oh My Zsh 的上位替代么？](https://www.v2ex.com/t/1089105)
 1. [为什么 Python 会有那么多人喜欢用？](https://www.v2ex.com/t/1089258)
 1. [如何避免家里 WIFI 被亲朋好友的 WIFI 万能钥匙共享出去？](https://www.v2ex.com/t/1089125)
 1. [我在设计开发的编程语言， Hello， World 跑通了](https://www.v2ex.com/t/1089110)
