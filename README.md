@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2024-11-23 22:02:55 +0800`
+`更新时间：2024-11-23 23:01:57 +0800`
 
 ## 热议话题
 
@@ -11,10 +11,10 @@
 1. [最近对中国风歌曲很上头，请 V 友们推荐，准备 凑齐 100 首，我有大用。周末打扫卫生的时候作为背景音乐播放。](https://www.v2ex.com/t/1091950)
 1. [黑五打折了..](https://www.v2ex.com/t/1091966)
 1. [刚入手 DIY NAS 系统推荐？](https://www.v2ex.com/t/1091935)
-1. [对比 telegram 和 WhatsApp，建立了 Signal 加密群聊](https://www.v2ex.com/t/1091945)
-1. [Apple Watch 用户们，你们的 watch 每天电量够用吗？](https://www.v2ex.com/t/1091982)
-1. [冷备份方式。](https://www.v2ex.com/t/1091934)
 1. [WiFi 感知技术解决校园霸凌问题](https://www.v2ex.com/t/1092014)
+1. [Apple Watch 用户们，你们的 watch 每天电量够用吗？](https://www.v2ex.com/t/1091982)
+1. [对比 telegram 和 WhatsApp，建立了 Signal 加密群聊](https://www.v2ex.com/t/1091945)
+1. [冷备份方式。](https://www.v2ex.com/t/1091934)
 1. [C++如何优化矩阵乘法 gemm](https://www.v2ex.com/t/1091967)
 
 ## 历史归档
