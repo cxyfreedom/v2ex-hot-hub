@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-01-04 21:14:38 +0800`
+`更新时间：2025-01-04 22:08:38 +0800`
 
 ## 热议话题
 
@@ -14,8 +14,8 @@
 1. [mysql 数据库频繁插数据的处理方案讨论](https://www.v2ex.com/t/1102456)
 1. [cloudfalre worker 也许是目前 web 服务部署的一种最佳实践。](https://www.v2ex.com/t/1102503)
 1. [关于今天给前端返回数据的结构的争论](https://www.v2ex.com/t/1102528)
-1. [搞了一台专门跑 Windows XP 的电脑](https://www.v2ex.com/t/1102396)
 1. [如何搭建 PB 级影音存储服务器？](https://www.v2ex.com/t/1102424)
+1. [（VPS）全网首家测评--搬瓦工 power box](https://www.v2ex.com/t/1102483)
 
 ## 历史归档
 
