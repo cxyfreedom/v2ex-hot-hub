@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-01-31 12:12:51 +0800`
+`更新时间：2025-01-31 13:10:46 +0800`
 
 ## 热议话题
 
@@ -13,6 +13,7 @@
 1. [google 的 gemini-2.0-flash-thinking 这个推理模型是不让用了吗](https://www.v2ex.com/t/1108325)
 1. [今年过年大家观察到身边有哪些变化?](https://www.v2ex.com/t/1108352)
 1. [前后端开发毕设,求建议](https://www.v2ex.com/t/1108330)
+1. [什么时候出新 12 寸 MacBook](https://www.v2ex.com/t/1108359)
 1. [现在买 m1 pro 还是 m3pro](https://www.v2ex.com/t/1108348)
 
 ## 历史归档
