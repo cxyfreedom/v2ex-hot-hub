@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-03-29 19:09:35 +0800`
+`更新时间：2025-03-29 20:19:01 +0800`
 
 ## 热议话题
 
@@ -11,11 +11,11 @@
 1. [qnap 威联通 nas 是我用过最难用的 nas，谨慎避坑](https://www.v2ex.com/t/1121877)
 1. [[求助] 美区 PayPal 招行 Visa 卡不能支付](https://www.v2ex.com/t/1121918)
 1. [小体积低功耗+ECC 内存的 NAS 有没有解](https://www.v2ex.com/t/1121941)
-1. [面试快 2 个月了，最终被迫去苏州了](https://www.v2ex.com/t/1121886)
 1. [公司 IP 被送中了](https://www.v2ex.com/t/1121926)
+1. [面试快 2 个月了，最终被迫去苏州了](https://www.v2ex.com/t/1121886)
 1. [上海租房遇到极其恶劣的房东](https://www.v2ex.com/t/1121858)
 1. [想做数字游民有什么好入手的吗](https://www.v2ex.com/t/1121915)
-1. [关于 loon 的一点疑问， surge 和 loon 如何选择](https://www.v2ex.com/t/1121952)
+1. [NAS 求推荐，绿联 DXP2800 vs 群晖 DS224+ (轻度使用+注重隐私）](https://www.v2ex.com/t/1121883)
 
 ## 历史归档
 
