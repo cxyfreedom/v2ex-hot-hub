@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-08-10 19:09:58 +0800`
+`更新时间：2025-08-10 20:23:08 +0800`
 
 ## 热议话题
 
@@ -12,10 +12,10 @@
 1. [现在做论坛晚吗？有点迷茫！](https://www.v2ex.com/t/1151321)
 1. [求助, 楼上空调滴水且不配合整改有解吗](https://www.v2ex.com/t/1151322)
 1. [Google 账户风控新政策，需要原手机号发短信！发短信！](https://www.v2ex.com/t/1151269)
-1. [switch 萌新买了 switch2，港版的，有一些问题想求教各位大佬](https://www.v2ex.com/t/1151263)
+1. [如何在首发的时候买到日本 iPhone 17 pro max?](https://www.v2ex.com/t/1151311)
 1. [[免费] LazyTyper：用「嘴」写代码，给 Claude Code 发语音（Mac 首发）](https://www.v2ex.com/t/1151314)
+1. [switch 萌新买了 switch2，港版的，有一些问题想求教各位大佬](https://www.v2ex.com/t/1151263)
 1. [问一下，各位都是怎么稳定使用 claude code 的啊？求方法](https://www.v2ex.com/t/1151317)
-1. [$v2ex 不同交易方式手续费对比,新人多看看](https://www.v2ex.com/t/1151318)
 
 ## 历史归档
 
