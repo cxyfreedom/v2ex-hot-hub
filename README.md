@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-10-08 11:24:44 +0800`
+`更新时间：2025-10-08 12:13:51 +0800`
 
 ## 热议话题
 
@@ -12,10 +12,9 @@
 1. [iPhone 17 pro 各位 V 友推荐什么壳？](https://www.v2ex.com/t/1163649)
 1. [国庆 7 天炒美股](https://www.v2ex.com/t/1163624)
 1. [有万能的 V 友吗？有视频怎么找到是哪个主播？](https://www.v2ex.com/t/1163636)
-1. [闲鱼上的美区 apple one 超大杯为什么这么便宜？](https://www.v2ex.com/t/1163598)
-1. [我发现.You 域名后缀出来了 love.you 和 peng.you 都被大佬拿下](https://www.v2ex.com/t/1163664)
-1. [shellcrash 的 dns 泄漏该怎么解决？](https://www.v2ex.com/t/1163611)
 1. [总是控制不住的反刍、自责。有人帮忙给点建议吗？](https://www.v2ex.com/t/1163656)
+1. [shellcrash 的 dns 泄漏该怎么解决？](https://www.v2ex.com/t/1163611)
+1. [新注册 Gmail 邮箱提示手机号不能用于验证](https://www.v2ex.com/t/1163607)
 
 ## 历史归档
 
