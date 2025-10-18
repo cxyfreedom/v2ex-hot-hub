@@ -2,20 +2,20 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-10-18 22:09:26 +0800`
+`更新时间：2025-10-18 23:09:47 +0800`
 
 ## 热议话题
 
-1. [Linux 桌面没调好的，别怀疑，一定是技术没学到位](https://www.v2ex.com/t/1166535)
 1. [求助献血](https://www.v2ex.com/t/1166554)
 1. [体验 2 天 Android（vivo X300 Pro），说说与 iOS 相比优缺点](https://www.v2ex.com/t/1166566)
 1. [著名物理学家杨振宁逝世](https://www.v2ex.com/t/1166595)
-1. [说说雷布斯 “云相册” 真正智障的设定](https://www.v2ex.com/t/1166531)
 1. [现在入 16PM 二手 7000 多性价比如何？](https://www.v2ex.com/t/1166558)
 1. [为什么人心总是难满足？](https://www.v2ex.com/t/1166567)
 1. [就杨振宁逝世这件事，想跟大家延伸讨论下](https://www.v2ex.com/t/1166618)
 1. [[后续 3] 诉泉州联通案一审取得阶段性胜利，但仍需二审](https://www.v2ex.com/t/1166542)
+1. [今天生日，](https://www.v2ex.com/t/1166584)
 1. [三星生态优缺点](https://www.v2ex.com/t/1166598)
+1. [iPhone 17 杀后台太严重了，还是买 iPhone 17 Pro 吧](https://www.v2ex.com/t/1166610)
 
 ## 历史归档
 
