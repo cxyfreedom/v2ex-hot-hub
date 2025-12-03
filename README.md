@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2025-12-04 06:13:08 +0800`
+`更新时间：2025-12-04 07:10:24 +0800`
 
 ## 热议话题
 
@@ -12,8 +12,8 @@
 1. [有个外企银行的 offer，应该接吗](https://www.v2ex.com/t/1176576)
 1. [B 站有个 up 主叫“聊会电影吧”](https://www.v2ex.com/t/1176545)
 1. [最近去香港办个港卡，有什么好建议没？](https://www.v2ex.com/t/1176525)
-1. [30 多万的预算买特斯拉 3/yp 还是买 yu7max？](https://www.v2ex.com/t/1176632)
 1. [上班是不是损耗健康](https://www.v2ex.com/t/1176524)
+1. [30 多万的预算买特斯拉 3/yp 还是买 yu7max？](https://www.v2ex.com/t/1176632)
 1. [[Photo Cleaner] 一键清理 iPhone 重复照片，永久会员免费送](https://www.v2ex.com/t/1176684)
 1. [妙控板 vs 妙控鼠标](https://www.v2ex.com/t/1176511)
 
