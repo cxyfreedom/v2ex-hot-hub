@@ -2,19 +2,19 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-01-03 08:59:57 +0800`
+`更新时间：2026-01-03 10:50:35 +0800`
 
 ## 热议话题
 
 1. [今天生日，陌生人可以给我一个祝福吗](https://www.v2ex.com/t/1182689)
-1. [Apple Watch 国补开始了， 46mm 只要 ¥2188](https://www.v2ex.com/t/1182657)
-1. ['你是出来约会别人老婆的吧'--如何杜绝这种误会](https://www.v2ex.com/t/1182646)
-1. [Vibe 编程时代，独立开发者还有空间嘛？](https://www.v2ex.com/t/1182647)
-1. [独立开发者应该做什么项目？给大家分享下](https://www.v2ex.com/t/1182655)
 1. [ChatGPT 马上快到期了， Gemini 和 ChatGPT 哪个更强一点，目前有啥活动，准备续费](https://www.v2ex.com/t/1182707)
 1. [做了个在线模拟器游戏网站，随手一点免费开玩](https://www.v2ex.com/t/1182668)
-1. [2026 年相机，有什么推荐吗？](https://www.v2ex.com/t/1182682)
 1. [成都宽带选择](https://www.v2ex.com/t/1182680)
+1. [2026 年相机，有什么推荐吗？](https://www.v2ex.com/t/1182682)
+1. [狗东 plus 开了真是韭菜啊](https://www.v2ex.com/t/1182709)
+1. [[后续 9] 泉州联通限速所谓整改:优化"劣质"用户 | 二审开庭:责任全在合建商 | 福建宇迈律师林梦瑶被律协立案](https://www.v2ex.com/t/1182750)
+1. [[杭州/波士顿] 初创工业 AI 公司 招募 CTO/Founding Engineer](https://www.v2ex.com/t/1182662)
+1. [弄了个 Flappy Bird 游戏的 3D 版自己玩](https://www.v2ex.com/t/1182671)
 
 ## 历史归档
 
