@@ -2,20 +2,19 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-01-25 09:11:21 +0800`
+`更新时间：2026-01-25 11:46:30 +0800`
 
 ## 热议话题
 
-1. [昨天试了下 telegram，+86 手机号登录居然要收费了！](https://www.v2ex.com/t/1187997)
-1. [大家自己的代码都是放在哪儿](https://www.v2ex.com/t/1188008)
 1. [解决+86 Telegram 账号登录难题](https://www.v2ex.com/t/1188026)
-1. [北京在哪能买到真烟](https://www.v2ex.com/t/1188002)
 1. [大家脑子里都在想什么呢，可以告诉我么](https://www.v2ex.com/t/1188023)
-1. [2025 一人公司年度总结，从 0 到 200$/月](https://www.v2ex.com/t/1188003)
-1. [决赛圈-理想 i6 和 极氪 7x（南方）](https://www.v2ex.com/t/1188022)
 1. [为什么赌徒无法收手？](https://www.v2ex.com/t/1188018)
-1. [完了,完了, 不小心强行关机, pve 服务器无法启动了](https://www.v2ex.com/t/1188009)
-1. [MacBook pro 14 寸 m5 32G + 512G 13000 值不值得买](https://www.v2ex.com/t/1187996)
+1. [决赛圈-理想 i6 和 极氪 7x（南方）](https://www.v2ex.com/t/1188022)
+1. [[话题探讨] 大家觉得有什么东西，价值是可以经受得住时间的考验的？](https://www.v2ex.com/t/1188101)
+1. [有没有觉得“微信”店大欺客的](https://www.v2ex.com/t/1188059)
+1. [分体式键盘真实体验怎么样？](https://www.v2ex.com/t/1188095)
+1. [我 Vibe Coding 一周，做了个桌面 Agent](https://www.v2ex.com/t/1188072)
+1. [Nex Terminal + claude 绝配，送兑换码](https://www.v2ex.com/t/1188031)
 
 ## 历史归档
 
