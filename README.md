@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-02-17 04:20:02 +0800`
+`更新时间：2026-02-17 05:20:40 +0800`
 
 ## 热议话题
 
@@ -10,8 +10,8 @@
 1. [想辞掉目前的事业编工作，裸辞去南方了](https://www.v2ex.com/t/1193028)
 1. [南京联通进小黑屋了](https://www.v2ex.com/t/1192989)
 1. [性价比机场选购指南](https://www.v2ex.com/t/1192996)
-1. [看春晚有感](https://www.v2ex.com/t/1193033)
 1. [看着智谱和 minimax 翻倍，心情很复杂](https://www.v2ex.com/t/1193036)
+1. [看春晚有感](https://www.v2ex.com/t/1193033)
 1. [除夕当天给我 nas 失联了，气死](https://www.v2ex.com/t/1193024)
 1. [现在 x 上不去了嘛？](https://www.v2ex.com/t/1193040)
 1. [买了 Gemini Pro 付费，用不了 API Key 吗？](https://www.v2ex.com/t/1192990)
