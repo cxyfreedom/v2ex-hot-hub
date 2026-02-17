@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-02-18 06:21:24 +0800`
+`更新时间：2026-02-18 07:20:54 +0800`
 
 ## 热议话题
 
@@ -11,8 +11,8 @@
 1. [Re:Source 新 V 站客戶端](https://www.v2ex.com/t/1193082)
 1. [macOS 26.4 系统自带限制充电了，可以删掉 AlDente 之类的软件了](https://www.v2ex.com/t/1193098)
 1. [换机求建议（Macbook Pro vs Macbook Air)](https://www.v2ex.com/t/1193088)
-1. [新年第一问： 2026 年了， v 站有官方的 app 吗](https://www.v2ex.com/t/1193075)
 1. [还有类似阿凡达的电影推荐吗 大电视看 4K 被爽到了](https://www.v2ex.com/t/1193094)
+1. [新年第一问： 2026 年了， v 站有官方的 app 吗](https://www.v2ex.com/t/1193075)
 1. [关于 360 摄像头永久云录像](https://www.v2ex.com/t/1193070)
 
 ## 历史归档
