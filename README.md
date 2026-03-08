@@ -2,20 +2,20 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-03-08 09:18:22 +0800`
+`更新时间：2026-03-08 12:03:02 +0800`
 
 ## 热议话题
 
 1. [很多人不看好 macbook neo,大胆预测一波会卖爆](https://www.v2ex.com/t/1196496)
-1. [给女儿起名求建议](https://www.v2ex.com/t/1196463)
-1. [你身边有没有这样的人，他们拒绝学习任何新技术和新工具？](https://www.v2ex.com/t/1196461)
-1. [claude code 使用哪家国内 api 靠谱](https://www.v2ex.com/t/1196478)
 1. [AI 编写 SKILL：通过 m-team 搜索并下载电影（ps：发邀）](https://www.v2ex.com/t/1196541)
-1. [我实话，我真不建议你现在就去养 小龙虾](https://www.v2ex.com/t/1196469)
-1. [淘宝 APP 每次启动都要给我放一段动画](https://www.v2ex.com/t/1196462)
-1. [发现现在的家用监控摄像头都有物理遮挡功能了](https://www.v2ex.com/t/1196453)
 1. [瓦工 IP 被全 ban 了，迁移 DC 也不行](https://www.v2ex.com/t/1196516)
-1. [现在真的有成功的 vibe coding 出地 app 或程序吗](https://www.v2ex.com/t/1196481)
+1. [魔都电信端口映射数量限制](https://www.v2ex.com/t/1196485)
+1. [如何看 apple tv 官方的 F1 直播呀](https://www.v2ex.com/t/1196493)
+1. [小象超市和盒马鲜生哪个便宜？](https://www.v2ex.com/t/1196503)
+1. [刚安装的 OpenClaw 被莫名奇妙流入了广告](https://www.v2ex.com/t/1196487)
+1. [vibe coding 风盛的现在，技术面试都怎么问了呢？](https://www.v2ex.com/t/1196491)
+1. [为什么 MacOS 这个脑残 bug 这么多版本都没有修复?](https://www.v2ex.com/t/1196517)
+1. [寻找量化交易爱好者，一起做点有意思的事](https://www.v2ex.com/t/1196543)
 
 ## 历史归档
 
