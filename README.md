@@ -2,17 +2,17 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-03-28 20:34:51 +0800`
+`更新时间：2026-03-28 21:43:49 +0800`
 
 ## 热议话题
 
 1. [有点搞不懂 Claude Code 了](https://www.v2ex.com/t/1201779)
-1. [家庭琐事，我奶把我姑折磨崩溃了。](https://www.v2ex.com/t/1201723)
 1. [程序员的 5 个转型方向](https://www.v2ex.com/t/1201775)
 1. [如果人生能带着记忆重来就好了](https://www.v2ex.com/t/1201741)
-1. [有了 openclaw, app 会死吗?](https://www.v2ex.com/t/1201764)
 1. [2026 年了， todo 应用烂大街了，仍然没有一个符合我要求的](https://www.v2ex.com/t/1201809)
 1. [[无卡订阅 Claude Pro 方案] 尼日利亚🇳🇬路线约 6.2 折、美区苹果路线约等于汇率价购买 Claude Pro，附 Claude 假模型避坑指南以及为什么不使用中转站](https://www.v2ex.com/t/1201760)
+1. [有了 openclaw, app 会死吗?](https://www.v2ex.com/t/1201764)
+1. [深圳.NET B/S 方向出路何在？](https://www.v2ex.com/t/1201818)
 
 ## 历史归档
 
