@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-04-02 15:59:23 +0800`
+`更新时间：2026-04-02 17:00:48 +0800`
 
 ## 热议话题
 
@@ -13,9 +13,9 @@
 1. [感觉 ai agent 时代， windows 越来越不行了](https://www.v2ex.com/t/1203016)
 1. [亲测中转确实坑。。说好的江湖呢？](https://www.v2ex.com/t/1203033)
 1. [codex 站起来蹬吗？](https://www.v2ex.com/t/1202878)
-1. [13pm 现在 18.6.2 有必要更新到 26.4 吗,有经验的兄弟说说](https://www.v2ex.com/t/1202994)
-1. [简体中文是过街老鼠吗，在 rustdesk 的 github 上 issue 用中文提 bug 不配吗？](https://www.v2ex.com/t/1203020)
 1. [怀念那个美好的时代](https://www.v2ex.com/t/1203053)
+1. [简体中文是过街老鼠吗，在 rustdesk 的 github 上 issue 用中文提 bug 不配吗？](https://www.v2ex.com/t/1203020)
+1. [13pm 现在 18.6.2 有必要更新到 26.4 吗,有经验的兄弟说说](https://www.v2ex.com/t/1202994)
 
 ## 历史归档
 
