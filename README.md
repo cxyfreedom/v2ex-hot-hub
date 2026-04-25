@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-04-26 06:27:19 +0800`
+`更新时间：2026-04-26 07:29:08 +0800`
 
 ## 热议话题
 
@@ -14,8 +14,8 @@
 1. [大项目中大家真的会用 Spec-Driven Development 吗？](https://www.v2ex.com/t/1208418)
 1. [为了买到便宜靠谱的 Token，少被割韭菜，我做了个比价的网站](https://www.v2ex.com/t/1208476)
 1. [有两种永生的方式，我该选择哪一个](https://www.v2ex.com/t/1208518)
-1. [XChat 正式上架 App Store 了](https://www.v2ex.com/t/1208417)
 1. [什么成品企业级 NAS 方便维修？](https://www.v2ex.com/t/1208529)
+1. [XChat 正式上架 App Store 了](https://www.v2ex.com/t/1208417)
 
 ## 历史归档
 
