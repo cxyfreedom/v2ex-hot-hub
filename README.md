@@ -2,19 +2,19 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-05-02 16:19:24 +0800`
+`更新时间：2026-05-02 17:54:02 +0800`
 
 ## 热议话题
 
 1. [Codex 登录需要验证手机号了](https://www.v2ex.com/t/1209905)
 1. [chatgpt 代充这是常规操作 还是我被坑了](https://www.v2ex.com/t/1209887)
+1. [决定开始定投标普 500 和纳指 100 了！](https://www.v2ex.com/t/1209961)
 1. [海鲜市场花 1700 大洋买了个苏州电信的老号](https://www.v2ex.com/t/1209871)
+1. [ChatGPT Pro 低价兑换 最后的绝唱了 全网唯一 ku0.com 抽奖送一个 Pro 5x](https://www.v2ex.com/t/1209942)
 1. [异地组网方案怎么选？从 n2n 到 WireGuard，折腾一圈后的真实记录](https://www.v2ex.com/t/1209892)
 1. [MiMo-V2.5-Pro，一句提问掉了 90000000（千万）token](https://www.v2ex.com/t/1209866)
+1. [dnshe 域名可永久了](https://www.v2ex.com/t/1209884)
 1. [[送兑换码] 做了个本地 4K 视频播放器 QuietBox，想请大家帮忙体验下](https://www.v2ex.com/t/1209921)
-1. [ChatGPT Pro 低价兑换 最后的绝唱了 全网唯一 ku0.com 抽奖送一个 Pro 5x](https://www.v2ex.com/t/1209942)
-1. [5.5 codex 模型是不是更耗流量了......](https://www.v2ex.com/t/1209935)
-1. [决定开始定投标普 500 和纳指 100 了！](https://www.v2ex.com/t/1209961)
 
 ## 历史归档
 
