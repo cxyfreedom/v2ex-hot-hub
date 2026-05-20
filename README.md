@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-05-21 00:47:11 +0800`
+`更新时间：2026-05-21 03:14:07 +0800`
 
 ## 热议话题
 
@@ -14,8 +14,8 @@
 1. [Antigravity 更新了，引入了 Gemini 3.5 Flash，更新的不像 vscode 了](https://www.v2ex.com/t/1213965)
 1. [分享一个自己做的 SSH 桌面工具， macOS / Windows / Linux 都能用 [送码]](https://www.v2ex.com/t/1213996)
 1. [大家都是怎么判断中转站安全性呢？](https://www.v2ex.com/t/1213987)
-1. [外科专硕毕业，看不到希望](https://www.v2ex.com/t/1213948)
 1. [做了一个睡前听书 App：用 Apple 系统语音读自己的 EPUB/PDF，送 30 个码](https://www.v2ex.com/t/1214142)
+1. [520 大家今天怎么过？](https://www.v2ex.com/t/1214048)
 
 ## 历史归档
 
