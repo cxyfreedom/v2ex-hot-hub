@@ -2,20 +2,19 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-05-23 08:09:34 +0800`
+`更新时间：2026-05-23 12:32:56 +0800`
 
 ## 热议话题
 
-1. [大家都用的什么代理软件](https://www.v2ex.com/t/1214608)
-1. [腾讯文档裁员这么猛真的假的？](https://www.v2ex.com/t/1214594)
-1. [怎么没人讨论昨晚小米的 YU7 GT](https://www.v2ex.com/t/1214634)
 1. [蔚来换电讨论](https://www.v2ex.com/t/1214689)
-1. [用过马应龙的湿厕纸后，无法忍受普通的厕纸了](https://www.v2ex.com/t/1214566)
-1. [自用 Neverun API 中转, Pro 号池，纯手工打造，欢迎鉴赏！](https://www.v2ex.com/t/1214609)
-1. [深圳电瓶车最近频繁被拍照罚款](https://www.v2ex.com/t/1214638)
-1. [时代落幕了，拉勾网主动申请破产了](https://www.v2ex.com/t/1214578)
-1. [继续继续推广我的 gpt 中转站，注册就送 28.8$余额](https://www.v2ex.com/t/1214665)
 1. [今天我生日,可以薅 V 友一句生日快乐吗?](https://www.v2ex.com/t/1214784)
+1. [Surge 作者将 𝕏 个人简介修改为已退休](https://www.v2ex.com/t/1214693)
+1. [Codex 新站点 HappyCode 推广，纯 Plus 号池（0.04 倍率）活动送 75 刀额度](https://www.v2ex.com/t/1214791)
+1. [我要不要买 MacBook Pro？](https://www.v2ex.com/t/1214677)
+1. [明天就要软考了，我发现了数据库三范式之第一范式好像过时了](https://www.v2ex.com/t/1214684)
+1. [家宽这么不稳定，有没有 NAS 托管服务么？](https://www.v2ex.com/t/1214722)
+1. [AI 蓬勃发展，各种资讯满天飞，大家都是从哪里获取 AI 资讯](https://www.v2ex.com/t/1214741)
+1. [ChatGPT Pro 额度怎么蹬满?](https://www.v2ex.com/t/1214772)
 
 ## 历史归档
 
