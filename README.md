@@ -2,19 +2,20 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-06-05 14:59:05 +0800`
+`更新时间：2026-06-05 18:47:56 +0800`
 
 ## 热议话题
 
-1. [[HyperAPI] gpt pro➕plus 号池，额度又重置了，这不得送点](https://www.v2ex.com/t/1217904)
 1. [纯吐槽公司技术团队现状](https://www.v2ex.com/t/1218058)
-1. [因为坐月子的问题引起的争吵](https://www.v2ex.com/t/1218006)
 1. [你相信有阿飘吗？](https://www.v2ex.com/t/1218086)
-1. [注册送免费额度 支持 gpt5.5 5.4 / Claude sonnet / opus 4.6 4.7 号池](https://www.v2ex.com/t/1217909)
-1. [有人还玩 QQ 三国吗](https://www.v2ex.com/t/1218068)
-1. [你失业多久家庭矛盾就开始了？](https://www.v2ex.com/t/1218061)
+1. [因为坐月子的问题引起的争吵](https://www.v2ex.com/t/1218006)
+1. [美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。](https://www.v2ex.com/t/1218155)
 1. [一款带 3D 视觉、极简免配置的 Clash 客户端： Clash Mini（自动测速连切，适合小白与颜控）](https://www.v2ex.com/t/1218019)
-1. [es 过亿数据查询咨询](https://www.v2ex.com/t/1217941)
+1. [被裁了](https://www.v2ex.com/t/1218162)
+1. [有人还玩 QQ 三国吗](https://www.v2ex.com/t/1218068)
+1. [我把英语学习变成了看小说，感谢 Vibe Coding](https://www.v2ex.com/t/1218088)
+1. [大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。](https://www.v2ex.com/t/1218201)
+1. [你失业多久家庭矛盾就开始了？](https://www.v2ex.com/t/1218061)
 
 ## 历史归档
 
