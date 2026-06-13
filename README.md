@@ -2,13 +2,13 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-06-14 05:03:12 +0800`
+`更新时间：2026-06-14 06:55:00 +0800`
 
 ## 热议话题
 
 1. [Anthropic 因美国政府要求，关闭了所有外国公民的 Fable 5/ Mythos 5 的访问权限](https://www.v2ex.com/t/1220089)
-1. [iPhone 17 / iPhone Air 怎么选？](https://www.v2ex.com/t/1220083)
 1. [# 自己搭的 AI 中转站，给 V 友送点福利$15，稳定用了半年了](https://www.v2ex.com/t/1220183)
+1. [iPhone 17 / iPhone Air 怎么选？](https://www.v2ex.com/t/1220083)
 1. [为何从学校出来的大概率是牛马](https://www.v2ex.com/t/1220136)
 1. [大家用 codex 的时候没有觉得界面很卡吗](https://www.v2ex.com/t/1220086)
 1. [有人需要换汇吗？](https://www.v2ex.com/t/1220095)
