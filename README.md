@@ -2,20 +2,20 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-07-03 10:04:04 +0800`
+`更新时间：2026-07-03 14:22:04 +0800`
 
 ## 热议话题
 
-1. [感觉女友很爱去看演唱会，不想让她去怎么办](https://www.v2ex.com/t/1224428)
-1. [[7 月] 一个真正一目了然的自建 Codex 中转站](https://www.v2ex.com/t/1224483)
 1. [公司 vibe coding 的项目，团队已经无法掌控了](https://www.v2ex.com/t/1224558)
-1. [讨论： AI 写的代码要不要看，不看代码的程序员会被淘汰吗？](https://www.v2ex.com/t/1224476)
-1. [请警惕账号 w1573007 发布的开源项目 Termo](https://www.v2ex.com/t/1224475)
-1. [一个中登的树洞](https://www.v2ex.com/t/1224438)
-1. [给小孩买一台 Macbook Neo](https://www.v2ex.com/t/1224412)
-1. [真的没人觉得 codex 比 claude 笨很多吗？](https://www.v2ex.com/t/1224592)
 1. [TransOne： macOS 原生菜单栏翻译工具](https://www.v2ex.com/t/1224640)
-1. [测试已死，北京测试岗位如此凄惨，。。](https://www.v2ex.com/t/1224467)
+1. [滨江仲裁调解员有大病，怎么投诉](https://www.v2ex.com/t/1224653)
+1. [真的没人觉得 codex 比 claude 笨很多吗？](https://www.v2ex.com/t/1224592)
+1. [家里亲戚今年高考，求推荐本科专业](https://www.v2ex.com/t/1224690)
+1. [一次勇敢换来一生自闭](https://www.v2ex.com/t/1224644)
+1. [你最满意的 PC 软件是什么？](https://www.v2ex.com/t/1224652)
+1. [给 V 友送福利， XProxy.Ai 中转站， 回帖送 5 刀，进群每周可领 5 刀，不开订阅，按量计费，没有套路 1:1 充值](https://www.v2ex.com/t/1224554)
+1. [2026 开一个公司，经验分享篇](https://www.v2ex.com/t/1224638)
+1. [真的没人觉得中文里面掺杂英文很 low 么？](https://www.v2ex.com/t/1224539)
 
 ## 历史归档
 
