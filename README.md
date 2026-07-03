@@ -2,20 +2,20 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-07-03 14:22:04 +0800`
+`更新时间：2026-07-03 17:49:29 +0800`
 
 ## 热议话题
 
-1. [公司 vibe coding 的项目，团队已经无法掌控了](https://www.v2ex.com/t/1224558)
-1. [TransOne： macOS 原生菜单栏翻译工具](https://www.v2ex.com/t/1224640)
-1. [滨江仲裁调解员有大病，怎么投诉](https://www.v2ex.com/t/1224653)
-1. [真的没人觉得 codex 比 claude 笨很多吗？](https://www.v2ex.com/t/1224592)
 1. [家里亲戚今年高考，求推荐本科专业](https://www.v2ex.com/t/1224690)
-1. [一次勇敢换来一生自闭](https://www.v2ex.com/t/1224644)
+1. [滨江仲裁调解员有大病，怎么投诉](https://www.v2ex.com/t/1224653)
+1. [“有个东西，也是我今天才学到的，叫 CDN”](https://www.v2ex.com/t/1224709)
+1. [TransOne： macOS 原生菜单栏翻译工具](https://www.v2ex.com/t/1224640)
 1. [你最满意的 PC 软件是什么？](https://www.v2ex.com/t/1224652)
-1. [给 V 友送福利， XProxy.Ai 中转站， 回帖送 5 刀，进群每周可领 5 刀，不开订阅，按量计费，没有套路 1:1 充值](https://www.v2ex.com/t/1224554)
+1. [[OneDayAI] 先送后卖，新老用户留言即送一周套餐，每 20 楼抽 20 刀充值额度](https://www.v2ex.com/t/1224726)
+1. [一次勇敢换来一生自闭](https://www.v2ex.com/t/1224644)
 1. [2026 开一个公司，经验分享篇](https://www.v2ex.com/t/1224638)
-1. [真的没人觉得中文里面掺杂英文很 low 么？](https://www.v2ex.com/t/1224539)
+1. [真的没人觉得 codex 比 claude 笨很多吗？](https://www.v2ex.com/t/1224592)
+1. [看《感觉女友很爱去看演唱会，不想让她去怎么办》有感，人生真正的享受是什么](https://www.v2ex.com/t/1224760)
 
 ## 历史归档
 
