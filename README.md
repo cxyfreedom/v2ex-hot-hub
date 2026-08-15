@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-08-15 16:16:17 +0800`
+`更新时间：2026-08-15 17:16:47 +0800`
 
 ## 热议话题
 
@@ -12,9 +12,9 @@
 1. [刚买了个贝尔金充电器，准备做 Mac 充电器的平替，然后测了下纹波，结果震惊了](https://www.v2ex.com/t/1234506)
 1. [在 DeepSeek Harness 里使用 V2EX 提供的 deepseek-v4-flash:0731](https://www.v2ex.com/t/1234521)
 1. [大冤种！刚全额续费 Gemini Pro，给我账号封了！](https://www.v2ex.com/t/1234459)
-1. [有丰田荣放车主吗？值得购买吗？](https://www.v2ex.com/t/1234419)
-1. [做一个思想实验，如果 dsh 没有打着 deepseek 的旗号](https://www.v2ex.com/t/1234524)
 1. [仲裁胜利-记一次不太艰辛的仲裁之路](https://www.v2ex.com/t/1234526)
+1. [做一个思想实验，如果 dsh 没有打着 deepseek 的旗号](https://www.v2ex.com/t/1234524)
+1. [一章有意思的图，真有人找不到这么明显的东西吗？](https://www.v2ex.com/t/1234534)
 1. [使用 macbook 的话尽量使用知名品牌的无线鼠标吧](https://www.v2ex.com/t/1234456)
 
 ## 历史归档
