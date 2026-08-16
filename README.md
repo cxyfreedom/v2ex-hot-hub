@@ -2,7 +2,7 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-08-16 21:23:50 +0800`
+`更新时间：2026-08-16 22:13:41 +0800`
 
 ## 热议话题
 
@@ -14,8 +14,8 @@
 1. [有什么办法把复印件和扫描件的内容提取出来吗？](https://www.v2ex.com/t/1234753)
 1. [各位 Pi 选手转 dsh 了吗](https://www.v2ex.com/t/1234716)
 1. [一年的 Manus Pro 还没有到期了，就给我取消了，毫无商业道德啊！](https://www.v2ex.com/t/1234707)
-1. [爆肝一下午，整了个桌面版 DeepSeek Harness，你不用再装 Node.js 了](https://www.v2ex.com/t/1234671)
 1. [如何无缝丝滑切换使用 Codex 和 DeepSeek](https://www.v2ex.com/t/1234734)
+1. [我得罪了 Linux .do 站长始皇后我就被她报复了](https://www.v2ex.com/t/1234740)
 
 ## 历史归档
 
