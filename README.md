@@ -2,18 +2,18 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-09-07 00:34:58 +0800`
+`更新时间：2026-09-07 02:44:48 +0800`
 
 ## 热议话题
 
-1. [难绷，太相信 ai 了😭](https://www.v2ex.com/t/1239751)
 1. [AndroMeld：最好的 Android 与 Mac 连续互通方案，新增远程连接 [送码]](https://www.v2ex.com/t/1239786)
 1. [GPT 6 Astra 重构的我的博客首页，有点喜欢](https://www.v2ex.com/t/1239777)
 1. [拼多多购物体验真的是很恶心](https://www.v2ex.com/t/1239770)
 1. [[Puluai] gpt6 已上线，欢迎大家尝鲜，注册留言送体验额度！](https://www.v2ex.com/t/1239794)
-1. [22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限](https://www.v2ex.com/t/1239774)
 1. [外包为什么在大家眼里这么不堪](https://www.v2ex.com/t/1239824)
+1. [22 小时用掉了 GPT 3 个 reset，做了个科普网站，看看 Astra 能力上限](https://www.v2ex.com/t/1239774)
 1. [法拍 iPhone 的 ID 解锁问题让人心里没底](https://www.v2ex.com/t/1239788)
+1. [昨天，用了六年多的 VMESS+WS+TLS+CDN 的配置终于被墙了](https://www.v2ex.com/t/1239792)
 
 ## 历史归档
 
