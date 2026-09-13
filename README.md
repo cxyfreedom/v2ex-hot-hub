@@ -2,19 +2,18 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-09-13 15:48:43 +0800`
+`更新时间：2026-09-13 20:57:55 +0800`
 
 ## 热议话题
 
-1. [有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距](https://www.v2ex.com/t/1241596)
 1. [你们一天喝多少咖啡的？](https://www.v2ex.com/t/1241624)
-1. [API 中转站能看到你全部 prompt 和回复，为什么没有一个「厂商端到端加密」的标准？](https://www.v2ex.com/t/1241650)
-1. [18PM 抢到了， 10099 元](https://www.v2ex.com/t/1241578)
-1. [再折腾了下旁路由，用 debian+mihomo 做透明网关](https://www.v2ex.com/t/1241566)
-1. [SRE 岗 offer 选择](https://www.v2ex.com/t/1241623)
 1. [陶哲轩等数学家反对 AI，论失败的意义](https://www.v2ex.com/t/1241637)
+1. [用 Astra 把家乡的竹林老屋做成一个可以游览的网页](https://www.v2ex.com/t/1241660)
+1. [SRE 岗 offer 选择](https://www.v2ex.com/t/1241623)
+1. [为了 Duo 这碟醋，苹果真是包了不少饺子啊……](https://www.v2ex.com/t/1241642)
+1. [有没有什么工具，可以远程让 codex 干活？](https://www.v2ex.com/t/1241635)
 1. [郁闷， mac 坏了，又要破费了！](https://www.v2ex.com/t/1241595)
-1. [300 块买了盒美心](https://www.v2ex.com/t/1241561)
+1. [大家的椅子手托在双手打字场景有这个问题吗，现在很难受](https://www.v2ex.com/t/1241644)
 
 ## 历史归档
 
