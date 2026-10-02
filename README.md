@@ -2,19 +2,19 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-10-02 09:53:19 +0800`
+`更新时间：2026-10-02 15:45:27 +0800`
 
 ## 热议话题
 
-1. [ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码](https://www.v2ex.com/t/1246024)
-1. [产品形态来说，好多咱们的程序员以为 APP > WEB](https://www.v2ex.com/t/1245970)
 1. [主力邮箱还是得选国内邮箱](https://www.v2ex.com/t/1246060)
-1. [号被封了……](https://www.v2ex.com/t/1245975)
-1. [[横琴｜澳资初创｜ AI Agent] 寻找技术联合创始人，前期零薪， 16%股权（4 年归属）](https://www.v2ex.com/t/1246029)
-1. [[分享送码] Forma Drive 在 Mac 上读写 NTFS 和 ext4 移动硬盘，顺带看线缆速度、清理磁盘](https://www.v2ex.com/t/1245993)
+1. [ClipSeek 成功上架 Microsoft Store 啦 ｜ 送码](https://www.v2ex.com/t/1246024)
+1. [现在反驳型人格怎么改呀？](https://www.v2ex.com/t/1246103)
 1. [有没有 token 信用合作社,蹬不完的 token 先给别人用,那天自己不够了再去取用](https://www.v2ex.com/t/1246062)
-1. [节假日不休， 6.1sol,6astra， onnet 5-5h,Opus 5-5 保持稳定不降智，不降智倍率低至 0.19，欢迎天才程序员来蹬，回复送测试额度。](https://www.v2ex.com/t/1246002)
+1. [电脑价格什么时候能回到冰点？日常轻度使用，现在入手还是再等等？](https://www.v2ex.com/t/1246090)
 1. [时隔 3 年，终于更新了个人主页](https://www.v2ex.com/t/1246052)
+1. [看重隐私买什么车好？](https://www.v2ex.com/t/1246094)
+1. [Tibo 耍猴了， 明天全局重置](https://www.v2ex.com/t/1246095)
+1. [如果 Google 账号被封了，关联的 Claude 是不是废了？](https://www.v2ex.com/t/1246051)
 
 ## 历史归档
 
