@@ -2,17 +2,17 @@
 
  记录[V2EX](https://www.v2ex.com/)从 2021-01-06 日至今的热门话题。每小时抓取一次数据，按天[归档](archives)。
 
-`更新时间：2026-10-17 07:08:37 +0800`
+`更新时间：2026-10-17 10:14:58 +0800`
 
 ## 热议话题
 
 1. [Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 [送码]](https://www.v2ex.com/t/1249294)
-1. [[送码] Emby/Jellyfin/Plex/本地/NAS 视频播放器 Vidzer 第一个 Windows 版本发布，还支持 macOS](https://www.v2ex.com/t/1249233)
-1. [国庆回去被说肥头大耳，下定决心减肥了](https://www.v2ex.com/t/1249207)
 1. [做了个网页电台：随机一站，听听世界上 3.5 万个电台此刻在播什么](https://www.v2ex.com/t/1249321)
-1. [特斯拉有的我们都有😝](https://www.v2ex.com/t/1249270)
-1. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)
-1. [一个人可以内向，敏感，胆小到什么程度](https://www.v2ex.com/t/1249230)
+1. [企微聊天就和裸聊差不多](https://www.v2ex.com/t/1249287)
+1. [如何处理食之无味弃之可惜的老数码产品](https://www.v2ex.com/t/1249305)
+1. [如何评价 rea 逆向一切？](https://www.v2ex.com/t/1249389)
+1. [大佬们带带弟弟， Codex 登录要电话验证怎么办](https://www.v2ex.com/t/1249260)
+1. [有目前稳定可靠的订阅 gpt plus 的方法吗，分享分享，人在大陆](https://www.v2ex.com/t/1249365)
 
 ## 历史归档
 
