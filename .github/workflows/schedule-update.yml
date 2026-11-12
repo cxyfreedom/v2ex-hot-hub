@@ -17,13 +17,13 @@ jobs:
     steps:
       # 克隆仓库
       - name: Clone repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       # 配置python环境
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
+          python-version: "3.11"
 
       # 安装python依赖
       - name: Install dependencies
